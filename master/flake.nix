@@ -11,6 +11,7 @@
   inputs.src-imlib2-master.ref   = "refs/heads/master";
   inputs.src-imlib2-master.owner = "PMunch";
   inputs.src-imlib2-master.repo  = "Imlib2";
+  inputs.src-imlib2-master.dir   = "";
   inputs.src-imlib2-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
