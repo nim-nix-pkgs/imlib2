@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656746802,
-        "narHash": "sha256-iKjbipeoWRVed05mut8zs35HRXnO0Axo6+c+W6JaAcM=",
+        "lastModified": 1657152997,
+        "narHash": "sha256-8P5M3AufXbiS8t94j+KKYqfcos/mJqA4Ph7+7HOBfZo=",
         "owner": "nim-nix-pkgs",
         "repo": "imlib2",
-        "rev": "f62cf476d900826ba20bf14d4d11698b3c07d6ab",
+        "rev": "915d78343158838ff64c4c08591cecb768b5a47d",
         "type": "github"
       },
       "original": {
